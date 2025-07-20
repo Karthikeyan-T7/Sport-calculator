@@ -17,26 +17,30 @@ The *Cricket Calculator* is a React + Flask-based web application designed to pe
 1. *🏠 Home Page*  
    A simple dashboard linking all cricket tools.
 
-2. *⚾ Bowling Statistics Calculator*  
+2. *🏏 Batting Statistics Calculator*
+   - Batting Strike Rate 
+   - Batting Average
+
+3. *⚾ Bowling Statistics Calculator*  
    - Bowling Average  
    - Economy Rate  
    - Strike Rate  
    - Overs Conversion (balls to overs and vice versa)
 
-3. *📈 Run Rate Calculator*  
+4. *📈 Run Rate Calculator*  
    - Current Run Rate  
    - Required Run Rate  
 
-4. *📊 Projected Score Calculator*  
+5. *📊 Projected Score Calculator*  
    - Based on current & custom run rate
 
-5. *📉 Net Run Rate (NRR) Calculator*  
+6. *📉 Net Run Rate (NRR) Calculator*  
    - Match-wise and Tournament-based
 
-6. *⛈️ DLS Calculator* (for Rain-Interrupted Matches)  
+7. *⛈️ DLS Calculator* (for Rain-Interrupted Matches)  
    - Supports both *ODI* and *T20* formats
 
-7. *📘 Follow-On Calculator*  
+8. *📘 Follow-On Calculator*  
    - Auto-decides whether follow-on is applicable based on innings and scores
 
 ---
